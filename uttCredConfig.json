@@ -7,7 +7,7 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://inji.github.io/utt-context.json",
+    "https://vishalisakar.github.io/utt-context.json",
     {
       "UTTCredential": {
         "@id": "UTTCertCredential"
